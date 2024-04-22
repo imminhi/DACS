@@ -1,0 +1,73 @@
+﻿@model ShoppingCart
+
+<h2>Your Cart</h2>
+
+<table class="table">
+    <tr>
+        <th>Product</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        <th>Total</th>
+        <th>Clear cart</th>
+    </tr>
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>
+                <button class="btn-minus">-</button>
+                <input type="number" class="quantity-input" value="@item.Quantity">
+                <button class="btn-plus">+</button>
+            </td>
+            <td class="price-element">@item.Price</td>
+            <td class="total-price-element">@(item.Price * item.Quantity)</td>
+            <td>
+                <a asp-action="RemoveFromCart" asp-route-productId="@item.ProductId">
+                    Remove
+                    <i class="bi bi-trash-fill"></i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+
+<script>
+    const btnMinus = document.querySelectorAll('.btn-minus');
+    const btnPlus = document.querySelectorAll('.btn-plus');
+
+    btnMinus.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const quantityInput = btn.nextElementSibling;
+            let quantity = parseInt(quantityInput.value);
+
+            if (quantity > 0) {
+                quantity--;
+                quantityInput.value = quantity;
+                updateTotalPrice(btn);
+            }
+        });
+    });
+
+    btnPlus.forEach(btn => {
+        btn.addEventListener('click', () => {
+            const quantityInput = btn.previousElementSibling;
+            let quantity = parseInt(quantityInput.value);
+
+            quantity++;
+            quantityInput.value = quantity;
+            updateTotalPrice(btn);
+        });
+    });
+
+    function updateTotalPrice(btn) {
+        const priceElement = btn.closest('tr').querySelector('.price-element');
+        const quantityInput = btn.closest('tr').querySelector('.quantity-input');
+        const totalPriceElement = btn.closest('tr').querySelector('.total-price-element');
+
+        const price = parseFloat(priceElement.textContent);
+        const quantity = parseInt(quantityInput.value);
+
+        const totalPrice = price * quantity;
+        totalPriceElement.textContent = totalPrice.toFixed(2);
+    }
+</script>

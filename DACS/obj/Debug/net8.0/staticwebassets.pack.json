@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DACS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DACS.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\1i96tnye-1258-asus-rog-zephyrus-g14-2023-ga402nu-ryzen-7-7735hs-rtx-4050-ram-16gb-ssd-512gb-man-2k-14-inch-165hz-100-srgb (1).jpg",
+      "PackagePath": "staticwebassets\\images\\1i96tnye-1258-asus-rog-zephyrus-g14-2023-ga402nu-ryzen-7-7735hs-rtx-4050-ram-16gb-ssd-512gb-man-2k-14-inch-165hz-100-srgb (1).jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Laptop HP 15s fq5229TU i3 1215U8GB512GBWin11 (8U237PA)\\Laptop HP 15s fq5229TU i3 1215U8GB512GBWin11 (8U237PA) 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Laptop HP 15s fq5229TU i3 1215U8GB512GBWin11 (8U237PA)\\Laptop HP 15s fq5229TU i3 1215U8GB512GBWin11 (8U237PA) 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Laptop HP 15s fq5229TU i3 1215U8GB512GBWin11 (8U237PA)\\Laptop HP 15s fq5229TU i3 1215U8GB512GBWin11 (8U237PA) 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Laptop HP 15s fq5229TU i3 1215U8GB512GBWin11 (8U237PA)\\Laptop HP 15s fq5229TU i3 1215U8GB512GBWin11 (8U237PA) 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy A05s\\Samsung Galaxy A05s 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy A05s\\Samsung Galaxy A05s 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy A05s\\Samsung Galaxy A05s 3.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy A05s\\Samsung Galaxy A05s 3.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy A05s\\Samsung Galaxy A05s.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy A05s\\Samsung Galaxy A05s.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy A05s\\V 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy A05s\\V 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra 3.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra 3.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra 4.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra 4.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S23 Ultra\\Samsung Galaxy S23 Ultra.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra 3.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra 3.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra 4.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra 4.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24 Ultra\\Samsung Galaxy S24 Ultra.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24 3.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24 3.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24 4.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24 4.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy S24\\Samsung Galaxy S24.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy Z Fold5\\Samsung Galaxy Z Fold5 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy Z Fold5\\Samsung Galaxy Z Fold5 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy Z Fold5\\Samsung Galaxy Z Fold5 3.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy Z Fold5\\Samsung Galaxy Z Fold5 3.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy Z Fold5\\Samsung Galaxy Z Fold5.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy Z Fold5\\Samsung Galaxy Z Fold5.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Samsung Galaxy Z Fold5\\Samsung Galaxy Z Fold51.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Samsung Galaxy Z Fold5\\Samsung Galaxy Z Fold51.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Xiaomi Redmi Note 13\\Xiaomi Redmi Note 13 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Xiaomi Redmi Note 13\\Xiaomi Redmi Note 13 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Xiaomi Redmi Note 13\\Xiaomi Redmi Note 13 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Xiaomi Redmi Note 13\\Xiaomi Redmi Note 13 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Xiaomi Redmi Note 13\\Xiaomi Redmi Note 13.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Xiaomi Redmi Note 13\\Xiaomi Redmi Note 13.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 13\\iPhone 13 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 13\\iPhone 13 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 13\\iPhone 13 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 13\\iPhone 13 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 13\\iPhone 13 3.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 13\\iPhone 13 3.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 13\\iPhone 13 4.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 13\\iPhone 13 4.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 13\\iPhone 13 5.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 13\\iPhone 13 5.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 13\\iPhone 13.jpeg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 13\\iPhone 13.jpeg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 3.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 3.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 4.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 4.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 5.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus 5.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus.png",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Plus\\iPhone 15 Plus.png"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Pro Max\\iPhone 15 Pro Max 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Pro Max\\iPhone 15 Pro Max 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Pro Max\\iPhone 15 Pro Max 2.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Pro Max\\iPhone 15 Pro Max 2.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Pro Max\\iPhone 15 Pro Max 3.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Pro Max\\iPhone 15 Pro Max 3.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Pro Max\\iPhone 15 Pro Max.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Pro Max\\iPhone 15 Pro Max.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\iPhone 15 Pro Max\\v 4.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\iPhone 15 Pro Max\\v 4.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Điện thoại iPhone 14 Plus\\iPhone 14 Plus 5.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Điện thoại iPhone 14 Plus\\iPhone 14 Plus 5.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Điện thoại iPhone 14 Plus\\iPhone 14 Plus.jpeg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Điện thoại iPhone 14 Plus\\iPhone 14 Plus.jpeg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Điện thoại iPhone 14 Plus\\ip14plus.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Điện thoại iPhone 14 Plus\\ip14plus.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Điện thoại iPhone 14 Plus\\Điện thoại iPhone 14 Plus 1.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Điện thoại iPhone 14 Plus\\Điện thoại iPhone 14 Plus 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Điện thoại iPhone 14 Plus\\Điện thoại iPhone 14 Plus 2.jpeg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Điện thoại iPhone 14 Plus\\Điện thoại iPhone 14 Plus 2.jpeg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\2H Center\\Điện thoại iPhone 14 Plus\\Điện thoại iPhone 14 Plus 3.jpg",
+      "PackagePath": "staticwebassets\\images\\2H Center\\Điện thoại iPhone 14 Plus\\Điện thoại iPhone 14 Plus 3.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\iPhone 13 1.jpg",
+      "PackagePath": "staticwebassets\\images\\iPhone 13 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\ip14plus.jpg",
+      "PackagePath": "staticwebassets\\images\\ip14plus.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\images\\Điện thoại iPhone 14 Plus 1.jpg",
+      "PackagePath": "staticwebassets\\images\\Điện thoại iPhone 14 Plus 1.jpg"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DACS\\DACS\\DACS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DACS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DACS.props",
+      "PackagePath": "build\\DACS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DACS.props",
+      "PackagePath": "buildMultiTargeting\\DACS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DACS.props",
+      "PackagePath": "buildTransitive\\DACS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
